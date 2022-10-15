@@ -1,0 +1,23 @@
+@import "../variables/contents"; 
+@import "../variables/colors"; 
+@import "media.queries"; 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+
+body {
+  margin: 0;
+  font-family: $default-font;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: $white;
+  font-size: 15px;
+  color: $black;
+  height: 100vh;
+ 
+}
+ 

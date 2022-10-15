@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;600;700;800;900&display=swap");
+@import "./colors";
+//Font
+$default-font: "Inter";
+
+//Screen Sizes
+$desktop: 1200px;
+$laptop: 992px;
+$tablet: 768px;
+$mobile: 480px;
+
+$shadow-small: 0 2px 8px 0 $black;
+
+$shadow-large:  8px 9px 47px -8px $black;
+
+// Dialog shadow
+$shadow-dialog: 0px 1px 3px 0px $grey-shade;

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataView renders props.offersData when passed 1`] = `
+<div>
+  <div class="data_row">
+    <div class="item">
+      <div class="item__column">
+        <div class="item__card">
+          <h4>Departure</h4> <i class="fas fa-plane-departure"></i>
+          <p>Date: 2021-08-03</p>
+          <p>Origin: CBB</p>
+        </div>
+      </div>
+      <div class="item__column">
+        <div class="item__card">
+          <h4>Offer</h4> <i class="fas fa-tags"></i>
+          <p>Price: 995.72 EUR</p>
+          <p>Seat Available: 34</p>
+        </div>
+      </div>
+      <div class="item__column">
+        <div class="item__card">
+          <h4>Arrival</h4> <i class="fas fa-plane-arrival"></i>
+          <p>Date: 2022-08-01</p>
+          <p>Destination: DDD</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

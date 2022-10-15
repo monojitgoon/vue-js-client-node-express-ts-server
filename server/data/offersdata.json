@@ -1,0 +1,377 @@
+[
+  {
+    "origin": "CBB",
+    "destination": "DDD",
+    "departureDate": "2021-08-03",
+    "returnDate": "2022-08-01",
+    "seatAvailability": 34,
+    "price": [
+      {
+        "amount": 995.72,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "fb286e53-1d81-4e9c-8088-bd80c90283d8"
+  },
+  {
+    "origin": "CAC",
+    "destination": "DEC",
+    "departureDate": "2021-08-02",
+    "returnDate": "2021-10-30",
+    "seatAvailability": 9,
+    "price": [
+      {
+        "amount": 578.03,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "068035ea-a532-413a-beb1-7ec0862a2032"
+  },
+  {
+    "origin": "BBB",
+    "destination": "EEE",
+    "departureDate": "2021-07-19",
+    "returnDate": "2022-03-22",
+    "seatAvailability": 36,
+    "price": [
+      {
+        "amount": 372.1,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "1e05720a-73d5-423f-b313-402328a13127"
+  },
+  {
+    "origin": "CBC",
+    "destination": "EDE",
+    "departureDate": "2021-08-04",
+    "returnDate": "2022-10-05",
+    "seatAvailability": 5,
+    "price": [
+      {
+        "amount": 584.15,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "01dcfaac-7e93-49d8-b50c-841ec54ff273"
+  },
+  {
+    "origin": "ACC",
+    "destination": "EDD",
+    "departureDate": "2021-07-23",
+    "returnDate": "2022-11-07",
+    "seatAvailability": 37,
+    "price": [
+      {
+        "amount": 731.09,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "5234983e-041f-4845-b7f1-5b0010531fca"
+  },
+  {
+    "origin": "CAA",
+    "destination": "DED",
+    "departureDate": "2021-08-08",
+    "returnDate": "2022-08-07",
+    "seatAvailability": 9,
+    "price": [
+      {
+        "amount": 474.54,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "ExactMatch",
+    "uuid": "14cd05a5-3b4a-431b-8e35-71c067b33210"
+  },
+  {
+    "origin": "CCB",
+    "destination": "ECE",
+    "departureDate": "2021-08-11",
+    "returnDate": "2023-01-06",
+    "seatAvailability": 36,
+    "price": [
+      {
+        "amount": 509.09,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "deb139fa-9b9e-42b1-aac7-ecabaea51e0f"
+  },
+  {
+    "origin": "CAC",
+    "destination": "EEC",
+    "departureDate": "2021-07-23",
+    "returnDate": "2022-02-10",
+    "seatAvailability": 40,
+    "price": [
+      {
+        "amount": 849.08,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "3f3b4809-649e-4425-9440-2e76d7165937"
+  },
+  {
+    "origin": "BAA",
+    "destination": "DCE",
+    "departureDate": "2021-08-06",
+    "returnDate": "2022-12-17",
+    "seatAvailability": 49,
+    "price": [
+      {
+        "amount": 754.69,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "5d6a155f-799b-4a68-a77d-a61be4be6733"
+  },
+  {
+    "origin": "CAB",
+    "destination": "CCD",
+    "departureDate": "2021-07-30",
+    "returnDate": "2022-12-13",
+    "seatAvailability": 12,
+    "price": [
+      {
+        "amount": 342.86,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "ExactMatch",
+    "uuid": "43bafa39-b4ef-474c-9284-9afa1c14cf36"
+  },
+  {
+    "origin": "BAC",
+    "destination": "ECD",
+    "departureDate": "2021-07-23",
+    "returnDate": "2022-08-15",
+    "seatAvailability": 22,
+    "price": [
+      {
+        "amount": 765.8,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "ed0052af-14dc-45bb-9ddb-43cf49791601"
+  },
+  {
+    "origin": "ACA",
+    "destination": "CDD",
+    "departureDate": "2021-08-12",
+    "returnDate": "2022-12-18",
+    "seatAvailability": 39,
+    "price": [
+      {
+        "amount": 602.49,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "ExactMatch",
+    "uuid": "34204d71-4562-48ac-81f9-294400e356b4"
+  },
+  {
+    "origin": "CCB",
+    "destination": "EDD",
+    "departureDate": "2021-07-27",
+    "returnDate": "2022-07-08",
+    "seatAvailability": 38,
+    "price": [
+      {
+        "amount": 712.79,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "ExactMatch",
+    "uuid": "421260f3-4afa-4bd1-81d8-3bbe6cc177b2"
+  },
+  {
+    "origin": "CBA",
+    "destination": "DDE",
+    "departureDate": "2021-07-17",
+    "returnDate": "2022-09-30",
+    "seatAvailability": 11,
+    "price": [
+      {
+        "amount": 898.02,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "ExactMatch",
+    "uuid": "cd45cb2a-f49c-422a-884f-4312b1422c0e"
+  },
+  {
+    "origin": "AAC",
+    "destination": "DEC",
+    "departureDate": "2021-07-25",
+    "returnDate": "2021-12-31",
+    "seatAvailability": 28,
+    "price": [
+      {
+        "amount": 687.84,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "b6baad3b-a53a-45ca-bab3-eaef7c095980"
+  },
+  {
+    "origin": "BBB",
+    "destination": "EEC",
+    "departureDate": "2021-08-02",
+    "returnDate": "2023-01-09",
+    "seatAvailability": 17,
+    "price": [
+      {
+        "amount": 498.86,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "ExactMatch",
+    "uuid": "5f45e615-b621-4448-91f4-5bedd87a04ce"
+  },
+  {
+    "origin": "CBC",
+    "destination": "DCC",
+    "departureDate": "2021-07-15",
+    "returnDate": "2022-09-29",
+    "seatAvailability": 14,
+    "price": [
+      {
+        "amount": 679.53,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "ExactMatch",
+    "uuid": "ad8c7bf8-281d-4f28-8d7b-c57663286473"
+  },
+  {
+    "origin": "BAC",
+    "destination": "CCD",
+    "departureDate": "2021-07-14",
+    "returnDate": "2021-11-12",
+    "seatAvailability": 39,
+    "price": [
+      {
+        "amount": 687.98,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "716e3c2a-ce2c-44ae-b021-e41b2321c4a1"
+  },
+  {
+    "origin": "BAB",
+    "destination": "DDD",
+    "departureDate": "2021-08-05",
+    "returnDate": "2022-07-24",
+    "seatAvailability": 6,
+    "price": [
+      {
+        "amount": 542.93,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "b074ca70-ecb1-4716-ba52-1faddb639edd"
+  },
+  {
+    "origin": "BCB",
+    "destination": "EED",
+    "departureDate": "2021-07-22",
+    "returnDate": "2022-03-23",
+    "seatAvailability": 38,
+    "price": [
+      {
+        "amount": 996.74,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "1d4f246f-a3ab-453b-9712-0873fbd5ae6a"
+  },
+  {
+    "origin": "ACB",
+    "destination": "DDD",
+    "departureDate": "2021-07-21",
+    "returnDate": "2022-09-27",
+    "seatAvailability": 17,
+    "price": [
+      {
+        "amount": 201.72,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "14197d4d-3752-4631-a25a-01043ba124d1"
+  },
+  {
+    "origin": "BCC",
+    "destination": "CCE",
+    "departureDate": "2021-08-08",
+    "returnDate": "2022-02-12",
+    "seatAvailability": 23,
+    "price": [
+      {
+        "amount": 741.38,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "c5ab4a45-3e94-4817-a7d8-d89e7957bede"
+  },
+  {
+    "origin": "BAB",
+    "destination": "DCD",
+    "departureDate": "2021-07-17",
+    "returnDate": "2022-06-23",
+    "seatAvailability": 36,
+    "price": [
+      {
+        "amount": 691.93,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "71923054-abd2-4304-afbb-96c79352ee32"
+  },
+  {
+    "origin": "ACB",
+    "destination": "ECE",
+    "departureDate": "2021-07-21",
+    "returnDate": "2022-06-22",
+    "seatAvailability": 42,
+    "price": [
+      {
+        "amount": 528.68,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "8357c4b1-b9da-460a-b9c2-a5a772404c63"
+  },
+  {
+    "origin": "CBC",
+    "destination": "DDE",
+    "departureDate": "2021-08-09",
+    "returnDate": "2022-08-14",
+    "seatAvailability": 37,
+    "price": [
+      {
+        "amount": 254.98,
+        "currency": "EUR"
+      }
+    ],
+    "offerType": "BestPrice",
+    "uuid": "a310a66f-9ae8-4967-999c-15f8c0e8bfaf"
+  }
+]
